@@ -1,0 +1,40 @@
+case : 1
+Optimal Solution = 58
+case : 2
+Optimal Solution = 105
+case : 3
+Optimal Solution = 130
+case : 4
+Optimal Solution = 39
+case : 5
+Optimal Solution = 177
+case : 6
+Optimal Solution = 232
+case : 7
+Optimal Solution = 227
+case : 8
+Optimal Solution = 188
+case : 9
+Optimal Solution = 3507
+case : 10
+Optimal Solution = 2718
+case : 11
+Optimal Solution = 2171
+case : 12
+Optimal Solution = 2868
+case : 13
+Optimal Solution = 5991
+case : 14
+Optimal Solution = 6588
+case : 15
+Optimal Solution = 6464
+case : 16
+Optimal Solution = 7277
+case : 17
+Optimal Solution = 15641
+case : 18
+Optimal Solution = 13081
+case : 19
+Optimal Solution = 15808
+case : 20
+Optimal Solution = 14745
